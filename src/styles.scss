@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+// background colors
+.bg-teal-900{
+    background-color: $teal-900;
+}
+.bg-gray-500{
+    background-color: $gray-500;
+}
